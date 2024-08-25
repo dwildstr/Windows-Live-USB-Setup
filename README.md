@@ -36,8 +36,6 @@ Both Windows 7 and 8 can still be used, but continued use is not recommended due
  
 
 
-## Screenshots
-
 
 
 ## Installation
